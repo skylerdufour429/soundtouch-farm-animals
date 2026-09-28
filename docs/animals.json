@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Sheep",
+    "group": "mammal",
+    "image": "Sheep.jpg",
+    "sounds": ["Sheep1.mp3", "Sheep2.mp3", "Sheep3.mp3", "Sheep4.mp3", "Sheep5.mp3"]
+  },
+  {
+    "name": "Duck",
+    "group": "mammal",
+    "image": "Duck.jpg",
+    "sounds": ["Duck1.mp3", "Duck2.mp3", "Duck3.mp3", "Duck4.mp3", "Duck5.mp3"]
+  },
+  {
+    "name": "Horse",
+    "group": "mammal",
+    "image": "Horse.jpg",
+    "sounds": ["Horse1.mp3", "Horse2.mp3", "Horse3.mp3", "Horse4.mp3", "Horse5.mp3"]
+  },
+  {
+    "name": "Frog",
+    "group": "amphibian",
+    "image": "Frog.jpg",
+    "sounds": ["Frog1.mp3", "Frog2.mp3", "Frog3.mp3", "Frog4.mp3", "Frog5.mp3"]
+  },
+  {
+    "name": "Dog",
+    "group": "mammal",
+    "image": "Dog.jpg",
+    "sounds": ["Dog1.mp3", "Dog2.mp3", "Dog3.mp3", "Dog4.mp3", "Dog5.mp3"]
+  },
+  {
+    "name": "Pig",
+    "group": "mammal",
+    "image": "Pig.jpg",
+    "sounds": ["Pig1.mp3", "Pig2.mp3", "Pig3.mp3", "Pig4.mp3", "Pig5.mp3"]
+  },
+  {
+    "name": "Cow",
+    "group": "mammal",
+    "image": "Cow.jpg",
+    "sounds": ["Cow1.mp3", "Cow2.mp3", "Cow3.mp3", "Cow4.mp3", "Cow5.mp3"]
+  },
+  {
+    "name": "Chicken",
+    "group": "mammal",
+    "image": "Chicken.jpg",
+    "sounds": ["Chicken1.mp3", "Chicken2.mp3", "Chicken3.mp3", "Chicken4.mp3", "Chicken5.mp3"]
+  },
+  {
+    "name": "Goat",
+    "group": "mammal",
+    "image": "Goat.jpg",
+    "sounds": ["Goat1.mp3", "Goat2.mp3", "Goat3.mp3", "Goat4.mp3", "Goat5.mp3"]
+  },
+  {
+    "name": "Bird",
+    "group": "bird",
+    "image": "Bird.jpg",
+    "sounds": ["Bird1_Robin.mp3", "Bird1_Sparrow.mp3", "Bird1_Tit.mp3", "Bird2.mp3", "Bird3.mp3", "Bird4.mp3", "Bird5.mp3"]
+  },
+  {
+    "name": "Donkey",
+    "group": "mammal",
+    "image": "Donkey.jpg",
+    "sounds": ["Donkey1.mp3", "Donkey2.mp3", "Donkey3.mp3", "Donkey4.mp3", "Donkey5.mp3"]
+  },
+  {
+    "name": "Cat",
+    "group": "mammal",
+    "image": "Cat.jpg",
+    "sounds": ["Cat1.mp3", "Cat2.mp3", "Cat3.mp3", "Cat4.mp3", "Cat5.mp3"]
+  }
+]
